@@ -1,0 +1,219 @@
+Epoch 1 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [02:01<00:00,  6.20it/s]
+
+Validation loss improved to 0.6923. Saving model.
+Epoch 2 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.41it/s]
+
+Validation loss improved to 0.6891. Saving model.
+Epoch 3 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.35it/s]
+
+Validation loss improved to 0.6849. Saving model.
+Epoch 4 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:28<00:00,  8.44it/s]
+
+Validation loss improved to 0.6795. Saving model.
+Epoch 5 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:28<00:00,  8.45it/s]
+
+Validation loss improved to 0.6717. Saving model.
+Epoch 6 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:28<00:00,  8.47it/s]
+
+Validation loss improved to 0.6619. Saving model.
+Epoch 7 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.42it/s]
+
+Validation loss improved to 0.6511. Saving model.
+Epoch 8 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.41it/s]
+
+Validation loss improved to 0.6400. Saving model.
+Epoch 9 [linear]: 100%|██████████████████████████████████████████████████████████████████████████████████| 750/750 [01:28<00:00,  8.51it/s]
+
+Validation loss improved to 0.6259. Saving model.
+Epoch 10 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:28<00:00,  8.44it/s]
+
+Validation loss improved to 0.6149. Saving model.
+Epoch 11 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.37it/s]
+
+Validation loss improved to 0.5992. Saving model.
+Epoch 12 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.41it/s]
+
+Validation loss improved to 0.5891. Saving model.
+Epoch 13 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:28<00:00,  8.46it/s]
+
+Validation loss improved to 0.5778. Saving model.
+Epoch 14 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:30<00:00,  8.33it/s]
+
+Validation loss improved to 0.5617. Saving model.
+Epoch 15 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:30<00:00,  8.25it/s]
+
+Validation loss improved to 0.5487. Saving model.
+Epoch 16 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.43it/s]
+
+Validation loss improved to 0.5395. Saving model.
+Epoch 17 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:29<00:00,  8.39it/s]
+
+Validation loss improved to 0.5268. Saving model.
+Epoch 18 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:32<00:00,  8.10it/s]
+
+Validation loss improved to 0.5177. Saving model.
+Epoch 19 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:37<00:00,  7.70it/s]
+
+Validation loss improved to 0.5088. Saving model.
+Epoch 20 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:43<00:00,  7.22it/s]
+
+Validation loss improved to 0.5052. Saving model.
+Epoch 21 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:55<00:00,  6.47it/s]
+
+Validation loss improved to 0.4953. Saving model.
+Epoch 22 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [02:04<00:00,  6.03it/s]
+
+Validation loss improved to 0.4912. Saving model.
+Epoch 23 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [02:44<00:00,  4.56it/s]
+
+Validation loss improved to 0.4876. Saving model.
+Epoch 24 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:32<00:00,  8.12it/s]
+
+Validation loss improved to 0.4813. Saving model.
+Epoch 25 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.33it/s]
+
+Validation loss improved to 0.4749. Saving model.
+Epoch 26 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.32it/s]
+
+Validation loss improved to 0.4713. Saving model.
+Epoch 27 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.24it/s]
+
+Validation loss improved to 0.4666. Saving model.
+Epoch 28 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.20it/s]
+
+Validation loss improved to 0.4620. Saving model.
+Epoch 29 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.26it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 30 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:19<00:00,  9.38it/s]
+
+No improvement in validation loss for 2 epochs.
+Epoch 31 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.21it/s]
+
+Validation loss improved to 0.4540. Saving model.
+Epoch 32 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.24it/s]
+
+Validation loss improved to 0.4516. Saving model.
+Epoch 33 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.35it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 34 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.24it/s]
+
+No improvement in validation loss for 2 epochs.
+Epoch 35 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.34it/s]
+
+Validation loss improved to 0.4498. Saving model.
+Epoch 36 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.29it/s]
+
+Validation loss improved to 0.4498. Saving model.
+Epoch 37 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.37it/s]
+
+Validation loss improved to 0.4490. Saving model.
+Epoch 38 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.33it/s]
+
+Validation loss improved to 0.4446. Saving model.
+Epoch 39 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.30it/s]
+
+Validation loss improved to 0.4427. Saving model.
+Epoch 40 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.23it/s]
+
+Validation loss improved to 0.4326. Saving model.
+Epoch 41 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.27it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 42 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.24it/s]
+
+No improvement in validation loss for 2 epochs.
+Epoch 43 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.27it/s]
+
+No improvement in validation loss for 3 epochs.
+Epoch 44 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.25it/s]
+
+Validation loss improved to 0.4283. Saving model.
+Epoch 45 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.28it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 46 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.27it/s]
+
+No improvement in validation loss for 2 epochs.
+Epoch 47 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.28it/s]
+
+Validation loss improved to 0.4281. Saving model.
+Epoch 48 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.25it/s]
+
+Validation loss improved to 0.4273. Saving model.
+Epoch 49 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.28it/s]
+
+Validation loss improved to 0.4268. Saving model.
+Epoch 50 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.31it/s]
+
+Validation loss improved to 0.4217. Saving model.
+Epoch 51 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.32it/s]
+
+Validation loss improved to 0.4208. Saving model.
+Epoch 52 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.30it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 53 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.23it/s]
+
+Validation loss improved to 0.4151. Saving model.
+Epoch 54 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.22it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 55 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:21<00:00,  9.20it/s]
+
+No improvement in validation loss for 2 epochs.
+Epoch 56 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.26it/s]
+
+Validation loss improved to 0.4146. Saving model.
+Epoch 57 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.33it/s]
+
+No improvement in validation loss for 1 epochs.
+Epoch 58 [linear]: 100%|█████████████████████████████████████████████████████████████████████████████████| 750/750 [01:20<00:00,  9.31it/s]
+
+Validation loss improved to 0.4075. Saving model.
+Epoch 59 [linear]:   7%|█████▌                                                                            | 51/750 [00:05<01:17,  9.05it/s]
+Traceback (most recent call last):
+  File "/home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py", line 255, in <module>
+    train()
+  File "/home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py", line 184, in train
+    for imgs, labels in tqdm(train_loader, desc=f"Epoch {epoch+1} [{sched_name}]"):
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 708, in __next__
+    data = self._next_data()
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 764, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py", line 51, in __getitem__
+    img = Image.open(path).convert("RGB")
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/PIL/Image.py", line 967, in convert
+    self.load()
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/PIL/ImageFile.py", line 406, in load
+    n, err_code = decoder.decode(b)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py", line 255, in <module>
+    train()
+  File "/home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py", line 184, in train
+    for imgs, labels in tqdm(train_loader, desc=f"Epoch {epoch+1} [{sched_name}]"):
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 708, in __next__
+    data = self._next_data()
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 764, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/torch/utils/data/_utils/fetch.py", line 52, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "/home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py", line 51, in __getitem__
+    img = Image.open(path).convert("RGB")
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/PIL/Image.py", line 967, in convert
+    self.load()
+  File "/home/desktop-amar/miniforge3/envs/yolo_greedy/lib/python3.10/site-packages/PIL/ImageFile.py", line 406, in load
+    n, err_code = decoder.decode(b)
+KeyboardInterrupt

@@ -1,0 +1,83 @@
+_wandb:
+    value:
+        cli_version: 0.26.1
+        e:
+            36d5pakzmqjucb5qc6g7fquqnbpa0dp9:
+                codePath: yolo11_Feature_Extractor_Binary_MultiScheduler.py
+                codePathLocal: yolo11_Feature_Extractor_Binary_MultiScheduler.py
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "495462023168"
+                        used: "58818191360"
+                email: linneahejsupergroup@yahoo.com
+                executable: /home/desktop-amar/miniforge3/envs/yolo_greedy/bin/python3
+                git:
+                    commit: 5724db87ebd6636b68acdffd6c170016f9881457
+                    remote: https://github.com/Majorsilver/ADL-Document-Analysis.git
+                gpu: NVIDIA GeForce RTX 3090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 10496
+                      memoryTotal: "25769803776"
+                      name: NVIDIA GeForce RTX 3090
+                      uuid: GPU-35ee8444-b308-3f35-6184-459f8bad9b79
+                host: desktop-amar
+                memory:
+                    total: "32918355968"
+                os: Linux-6.17.0-23-generic-x86_64-with-glibc2.42
+                program: /home/desktop-amar/Documents/ADL-Document-Analysis/yolo11_Feature_Extractor_Binary_MultiScheduler.py
+                python: CPython 3.10.20
+                root: /home/desktop-amar/Documents/ADL-Document-Analysis
+                startedAt: "2026-05-09T20:27:16.755166Z"
+                writerId: 36d5pakzmqjucb5qc6g7fquqnbpa0dp9
+        m: []
+        python_version: 3.10.20
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 53
+            "2":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 53
+            "3":
+                - 13
+                - 16
+            "4": 3.10.20
+            "5": 0.26.1
+            "6": 5.6.2
+            "12": 0.26.1
+            "13": linux-x86_64
+batch_size:
+    value: 128
+epochs:
+    value: 1000
+factor:
+    value: 0.95
+img_size:
+    value: 128
+lr:
+    value: 0.0001
+max_lr:
+    value: 0.001
+min_lr:
+    value: 1e-06
+patience:
+    value: 100
+warmup:
+    value: 10
+warmup_ratio:
+    value: 0.1
+weight_decay:
+    value: 0.0001
