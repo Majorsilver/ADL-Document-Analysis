@@ -1,0 +1,34 @@
+device: cuda | min_area: 750
+
+Building filtered test set for task=binary mode=convnext...
+  kept 36280 images in 15.3s
+
+Building filtered test set for task=type mode=convnext...
+  kept 126980 images in 22.1s
+
+Building filtered test set for task=binary mode=cnn5...
+  kept 36280 images in 6.1s
+
+Building filtered test set for task=type mode=cnn5...
+  kept 126980 images in 19.7s
+
+[ConvNeXt binary] task=binary classes=2 n_test=36280
+  loss 0.0520 | acc 0.9795 | f1 0.9795 | 113.8s
+
+[ConvNeXt type] task=type classes=7 n_test=126980
+  loss 0.0275 | acc 0.9922 | f1 0.9922 | 354.6s
+
+[Cnn5 binary] task=binary classes=2 n_test=36280
+  loss 0.0047 | acc 0.9977 | f1 0.9977 | 21.7s
+
+[Cnn5 type] task=type classes=7 n_test=126980
+  loss 0.0390 | acc 0.9865 | f1 0.9865 | 35.3s
+
+======================================================================
+Summary  (test set filtered to w*h >= 750)
+======================================================================
+model                task           n      acc       f1     loss
+ConvNeXt binary      binary     36280   0.9795   0.9795   0.0520
+ConvNeXt type        type      126980   0.9922   0.9922   0.0275
+Cnn5 binary          binary     36280   0.9977   0.9977   0.0047
+Cnn5 type            type      126980   0.9865   0.9865   0.0390
